@@ -1,7 +1,7 @@
 -- CREATE DATABASE FOR COVID19 IN AFRICA
-create database if not exists PortfolioProject;
+create database if not exists CovidAfrica;
 
-use portfolioproject;
+use CovidAfrica;
 
 create table coviddeaths
 (
